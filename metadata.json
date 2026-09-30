@@ -1,0 +1,8 @@
+{
+  "name": "LOGARACING: TANTANGAN LOGARITMA",
+  "description": "Game edukasi matematika SMA bertema balap F1 dengan telemetri esports, sirkuit sirkular dinamis, kokpit HUD interaktif, dan sistem ruang kendali guru real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
